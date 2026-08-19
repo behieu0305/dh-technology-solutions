@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+.thumbnail
+*.dc.html
+Email chao hang.html
+Ban do lien he.html
+Tu rack 3D.html
+image-slot.js
+three-d-stage.js
+scraps/
+support.js
+_ds/
